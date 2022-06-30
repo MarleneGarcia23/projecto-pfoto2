@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/sistemahospitalar/application/controllers/Sistema/PacienteController.php</file>
+            <file>file:/C:/xampp/htdocs/sistemahospitalar/application/controllers/Sistema/RelactorioController.php</file>
+            <file>file:/C:/xampp/htdocs/sistemahospitalar/application/views/Sistema/Cardapio/Editar.php</file>
+            <file>file:/C:/xampp/htdocs/sistemahospitalar/application/controllers/Sistema/ClinicoController.php</file>
+            <file>file:/C:/xampp/htdocs/sistemahospitalar/application/views/Sistema/Cardapio/Nova.php</file>
+            <file>file:/C:/xampp/htdocs/sistemahospitalar/application/controllers/Sistema/AtendimentoController.php</file>
+            <file>file:/C:/xampp/htdocs/sistemahospitalar/application/controllers/Sistema/SalarioController.php</file>
+            <file>file:/C:/xampp/htdocs/sistemahospitalar/application/controllers/Sistema/FacturaController.php</file>
+            <file>file:/C:/xampp/htdocs/sistemahospitalar/application/views/include/rodape.php</file>
+            <file>file:/C:/xampp/htdocs/sistemahospitalar/application/controllers/Sistema/ImprimirController.php</file>
+        </group>
+    </open-files>
+</project-private>
