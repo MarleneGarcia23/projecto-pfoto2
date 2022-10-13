@@ -455,6 +455,7 @@ function itempagamento_total() {
     var desconto = 0;
     var subtotal = 0;
     var total = 0;
+    
     if ($('[name=valorpago]').val() >= 0 && $('[name=valorpago]').val().length != 0) {
         valorpago = parseFloat($('[name=valorpago]').val());
     }
